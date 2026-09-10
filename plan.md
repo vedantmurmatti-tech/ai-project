@@ -8,3 +8,4 @@ Problem: Not knowing which mess hall has the better lunch for the day.
 
 Solution: A system that tells me which mess I should prefer for the day.
 git 
+come up with a new plan 
